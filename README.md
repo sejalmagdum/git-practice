@@ -1,1 +1,1 @@
-git practice project
+practicing git through hands on
